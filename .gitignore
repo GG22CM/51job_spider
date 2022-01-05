@@ -1,0 +1,5 @@
+/test
+/venv
+*.pyc
+geckodriver.log
+/.idea
