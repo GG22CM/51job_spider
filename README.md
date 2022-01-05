@@ -10,3 +10,5 @@ main.py运行项目爬取数据
 使用的数据库是sqlite，数据库中有之前爬取好的2500条数据
 
 使用的爬取方式是selenium, 因为51job有反爬措施
+
+使用requirements.txt安装所需要的模块
